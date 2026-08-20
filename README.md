@@ -6,7 +6,7 @@ A secure and user-friendly login application designed for seamless authenticatio
 
 * User registration
 * Secure user login
-* Username/email validation
+* Username/email validationRemove-Item -Recurse -Force .\loginclient\client\.git -ErrorAction SilentlyContinue
 * Password validation
 * Authentication and authorization
 * Session management
